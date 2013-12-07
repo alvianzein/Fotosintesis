@@ -1,29 +1,27 @@
 # Fotosintesis
-## elementary,social,classroom
+## elementary and classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
 Elementary School (6-12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+
+
+![mari_sekolah_by_budakbaonk.jpg](https://raw.github.com/alvianzein/Fotosintesis/master/gitfab/resources/mari_sekolah_by_budakbaonk.jpg)
 ---
 #Scale
-1 classroom (~30)
+1 classroom (~22)
 
+
+![292761884_1f13ad4d5f.jpg](https://raw.github.com/alvianzein/Fotosintesis/master/gitfab/resources/292761884_1f13ad4d5f.jpg)
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
-
+Outlines the processes Anabolisme Carbohydrates
 
 ---
 #Educational Effect
-* Search information and Remixing
-
-skill
-
-* Presentation Skill
-* deep Knowledge for own country
+* Explaining the factors that affect photosynthesis
 
 ---
 #Item/Material/System
